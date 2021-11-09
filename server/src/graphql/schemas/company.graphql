@@ -1,0 +1,8 @@
+type Company {
+  id: String!
+  name: String!
+}
+
+extend type Query {
+  company: [Company]
+}

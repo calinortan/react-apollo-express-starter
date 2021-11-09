@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "111",
+      "name": "calin ortan",
+      "age": 29,
+      "companyId": "1"
+    },
+    {
+      "id": "222",
+      "name": "alexandra u",
+      "age": 28,
+      "companyId": "2"
+    },
+    {
+      "id": "333",
+      "name": "andrew c",
+      "age": 28,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Google"
+    }
+  ]
+}
