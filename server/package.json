@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.ts",
-    "server": "json-server --watch db.json --port 3030",
+    "start:server": "nodemon index.ts",
+    "start:db": "json-server --watch db.json --port 3030",
     "generate": "graphql-codegen --config codegen.yml"
   },
   "author": "",
